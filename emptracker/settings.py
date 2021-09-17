@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'authentication',
     'rest_framework',
     'rest_framework_simplejwt',
+    # 'django.contrib.staticfiles',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
